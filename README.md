@@ -1,2 +1,2 @@
 # KNOU_Python
-Python교육 자료
+Python교육 자료.
